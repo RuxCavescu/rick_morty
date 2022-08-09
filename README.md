@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Rick-Morty
 # Rick-Morty
 # rick_morty
+# rick_morty
